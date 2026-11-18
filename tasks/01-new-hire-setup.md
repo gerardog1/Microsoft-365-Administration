@@ -26,3 +26,9 @@
 ## Ticket note
 
 > New hire account requested by an authorized contact per client documentation. Created the user in the Microsoft 365 admin center, assigned the standard license, and added the user to the team group. Temporary password given to the requester by phone. User must change the password at first sign-in. 
+
+## Key takeaways
+
+- Verify the requester, and check the license count before creating anything.
+- Passwords are shared by phone only.
+- Adding the user to the team's group is how "same access as the team" gets done.
