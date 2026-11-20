@@ -17,8 +17,11 @@
 2. Click **Teams & groups**, then **Shared mailboxes**.
 3. Click the **Support** mailbox. In the panel, under **Members**, click **Edit**, then **Add members**.
 4. Search for the user, tick them, and click **Save**.
-5. Reply on the ticket: give it about 15 minutes, then close Outlook completely and reopen it. If it is still not there after an hour, reply here and I will take another look.
+5. Reply on the ticket: give it about 15 minutes, then close Outlook completely and reopen it. If it is still not there after an hour, reply here and I will take another look. (I can also walk the user through adding the mailbox in their Outlook if they don't know how)
 6. Confirm with the user once the mailbox shows in Outlook.
+
+## Screenshots
+[See Screenshots Here](../screenshots/02-screenshots.md)
 
 ## Ticket note
 
