@@ -23,6 +23,9 @@
 7. Call the requester and read the temporary password over the phone.
 8. Tell the requester that on the first sign-in the new hire will be asked to change the password and set up their Authenticator app, and that the mailbox may take a few minutes to be ready after the license is assigned.
 
+## Screenshots
+[See Screenshots Here](../screenshots/01-screenshots.md)
+
 ## Ticket note
 
 > New hire account requested by an authorized contact per client documentation. Created the user in the Microsoft 365 admin center, assigned the standard license, and added the user to the team group. Temporary password given to the requester by phone. User must change the password at first sign-in. 
