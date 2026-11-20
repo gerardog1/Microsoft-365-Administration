@@ -1,6 +1,6 @@
 # Scenario 2: Shared mailbox access
 
-- [ ] Reproduced in a Microsoft 365 trial tenant
+- [x] Reproduced in a Microsoft 365 trial tenant
 
 ## Ticket
 
