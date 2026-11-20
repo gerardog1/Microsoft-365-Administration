@@ -1,6 +1,6 @@
 # Scenario 1: New hire setup
 
-- [ ] Reproduced in a Microsoft 365 trial tenant
+- [x] Reproduced in a Microsoft 365 trial tenant
 
 ## Ticket
 
