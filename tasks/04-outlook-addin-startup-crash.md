@@ -22,6 +22,9 @@
 6. Open Outlook normally from the Start menu and confirm it loads.
 7. Tell the user which add-in is turned off, so a missing button is not a surprise.
 
+## Screenshots
+[See Screenshots Here](../screenshots/04-screenshots.md)
+
 ## Root cause
 
 A third-party add-in was crashing Outlook at startup.
@@ -38,11 +41,4 @@ I explain that it cannot go back on yet, because it would crash Outlook again, a
 
 - Safe mode splits the problem in two: Outlook itself, or something added to it.
 - Turning off an add-in has a cost, so tell the user.
-- This applies to classic Outlook, not the newer "new Outlook".
-
-## Reproduce it (practice only)
-
-1. Install the desktop apps from the trial tenant and sign in as a test user with classic Outlook.
-2. Run `outlook.exe /safe` and confirm the title bar says Safe Mode.
-3. Open **COM Add-ins**, untick one add-in, click **OK**, then reopen the box and tick it again.
-4. I did not reproduce the crash itself, so this scenario stays a practiced walkthrough.
+- This applies to classic Outlook, not the newer "new Outlook". New Outlook uses `olk.exe --safe`
