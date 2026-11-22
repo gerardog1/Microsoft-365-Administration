@@ -1,6 +1,6 @@
-# Scenario 8: MFA reset after a new phone
+# Scenario 3: MFA reset after a new phone
 
-- [ ] Reproduced in a Microsoft 365 trial tenant
+- [x] Reproduced in a Microsoft 365 trial tenant
 
 ## Ticket
 
@@ -22,6 +22,9 @@
 6. On the new phone, open the Authenticator app, tap **+**, tap **Work or school account**, and scan the QR code.
 7. The user types the number shown on the laptop into the phone notification and approves it.
 8. Ask the user to open Teams to confirm everything works.
+
+## Screenshots
+[See Screenshots Here](..screenshots/03-screenshots.md)
 
 ## Root cause
 
